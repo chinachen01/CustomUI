@@ -1,10 +1,12 @@
-package com.focus.imitationui;
+package com.focus.imitationui.doubleSliding;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.focus.imitationui.R;
 
 public class MenuRightFragment extends Fragment
 {

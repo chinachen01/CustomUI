@@ -1,4 +1,4 @@
-package com.focus.imitationui;
+package com.focus.imitationui.doubleSliding;
 
 import android.content.Context;
 import android.support.v4.widget.DrawerLayout;
